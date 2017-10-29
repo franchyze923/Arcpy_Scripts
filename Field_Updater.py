@@ -1,4 +1,4 @@
-# Updates all records that have 'null' value in the 'name' and 'maxspeed' fields.
+# Updates all records that have 'null' value in the 'name' and 'maxspeed' fields..
 
 import arcpy, time, datetime
 
